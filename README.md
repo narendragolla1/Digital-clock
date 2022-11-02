@@ -1,2 +1,1 @@
-# countdown-timer
- 
+# Digital Clock using HTML , CSS , JS
